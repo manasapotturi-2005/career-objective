@@ -59,7 +59,7 @@ def main():
         elif file_type == "txt":
             text_data = uploaded_file.read().decode("utf-8")
 
-        API_KEY = st.secrets.get("cwstgxd9xq4r95oo9k2dfx")
+        API_KEY = st.secrets.get("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")
         if not API_KEY:
             st.error("API key not found. Set it in Streamlit Secrets.")
             return
