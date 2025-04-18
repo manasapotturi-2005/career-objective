@@ -4,4 +4,4 @@ pandas
 scikit-learn
 pyPDF2
 
-openai.api_key=st.secrets[""]
+openai.api_key=st.secrets["AIzaSyBgoRY5yivtBxCkdEpXzpuCfgRCBxodxIQ"]
